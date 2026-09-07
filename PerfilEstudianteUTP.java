@@ -1,6 +1,6 @@
 /*
  * TODO 1 (NIVEL 2 - Javadoc): Convierte este comentario de bloque a un comentario Javadoc oficial (/** ... */)
- * Incluye las etiquetas @author (tu Nombre y Cédula) y @version 1.0 
+ * Incluye las etiquetas @author (tu Nombre y Cédula) y @version 1.0
  */
 public class PerfilEstudianteUTP {
 
