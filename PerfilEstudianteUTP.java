@@ -20,7 +20,7 @@ public class PerfilEstudianteUTP {
         double costoCredito = 15.50;
 
         // TODO 2.4: Corrige el tipo de dato al tipo primitivo boolean (sin comillas de texto)
-        boolean estaPazYSalvo = "true";
+        boolean estaPazYSalvo = true;
 
         // TODO 2.5: Declara una variable de tipo char con la inicial del segundo nombre
         char inicialSegundoNombre = 'M'
